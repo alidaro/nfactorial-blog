@@ -11,6 +11,8 @@ npm install
 npm start
 ```
 
+If have some troubles
+
 ```sh
 npm run build
 npm run start
